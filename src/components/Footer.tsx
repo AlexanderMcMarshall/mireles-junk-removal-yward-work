@@ -1,5 +1,5 @@
 import { Phone, Mail } from "lucide-react";
-import mpsLogo from "@/assets/mps-logo.png";
+import mpsLogo from "@/assets/mps-logo-removebg-preview.png";
 
 const Footer = () => (
   <footer className="bg-surface-dark py-16">
