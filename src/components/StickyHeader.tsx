@@ -20,7 +20,7 @@ const StickyHeader = () => {
         <div className="flex items-center gap-4">
           <a href="tel:8179958813" className="hidden sm:flex items-center gap-2 text-accent font-display font-bold text-sm">
             <Phone className="w-4 h-4" />
-            210-262-1020
+            707-599-5377
           </a>
           <a
             href="#contact"

@@ -27,10 +27,10 @@ const Footer = () => (
           <h4 className="font-display font-bold text-surface-dark-foreground text-sm uppercase tracking-wider mb-4">Contact</h4>
           <div className="flex flex-col gap-3">
             <a href="tel:8179958813" className="flex items-center gap-2 text-accent font-bold text-sm">
-              <Phone className="w-4 h-4" /> 210-262-1020
+              <Phone className="w-4 h-4" /> 707-599-5377
             </a>
-            <a href="mailto:lucio@luciojunkremoval.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
-              <Mail className="w-4 h-4" /> lucio@luciojunkremoval.com
+            <a href="mailto:jmmireles8911@gmail.com" className="flex items-center gap-2 text-surface-dark-foreground/60 hover:text-accent transition-colors text-sm">
+              <Mail className="w-4 h-4" /> jmmireles8911@gmail.com
             </a>
           </div>
         </div>

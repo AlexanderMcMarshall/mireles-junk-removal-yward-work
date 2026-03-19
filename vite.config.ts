@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base:"/lucio-junk-removal/",
+  base:"/mireles-junk-removal-yward-work/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
